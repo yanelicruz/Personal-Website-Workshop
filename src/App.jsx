@@ -46,14 +46,13 @@ export default function App() {
         <section className="contact" id="contact">
           <p className="eyebrow">Let’s connect</p><h2>Have an idea or opportunity?</h2>
           <p>I’d love to hear from you. Replace this with your own email address.</p>
-          <a className="button light" href="mailto:your.email@example.com">Say hello</a>
+          <a className="button light" href="mailto:yaneliavacruz@gmail.com">Say hello</a>
           <div className="social-links">
-            <a href="https://github.com/your-username" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://www.linkedin.com/in/your-username" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://github.com/yanelicruz" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/yaneli-ava-cruz/" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </section>
       </main>
-      <footer>Built with React + Vite · Make it yours.</footer>
     </>
   )
 }
